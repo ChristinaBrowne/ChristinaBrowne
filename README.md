@@ -12,6 +12,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Christina+Browne;a+Full-Stack+Developer;Designer+%26+Programmer;Computer+Engineer" alt="Typing+Font" />
 </p>
 
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
 <h3 align="center">Full-Stack | Programmer & Software Developer</h3>
 
 <p align="center">
@@ -26,6 +30,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
 
 <div align="center">
   <h2 align="center">GitHub Activity</h2> 
@@ -39,6 +46,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristinaBrowne&theme=radical" alt="GitHub Streak" width="34%">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ChristinaBrowne?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Stats" width="30%">
 </div>
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
 
 <div align="center">
   <h2 align="center">Skills & Tools</h2>
@@ -109,6 +120,10 @@
   <img src="https://img.shields.io/badge/Firefox-EB4034?style=for-the-badge&logo=firefox&logoColor=white">
 </p>
 
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
 ## Featured Projects
 
 <table>
@@ -148,12 +163,20 @@ A seamless CRUD application for managing personnel and departments within a data
 </tr>
 </table>
 
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
 ## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christina-browne-6051b2277" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christina Browne" /></a>
   <a href="https://x.com/Christina_Bxx" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Christina_Bxx" /></a>
   <a href="https://www.codecademy.com/profiles/bit7079579748" target="blank"><img align="center" src="https://img.shields.io/badge/Codecademy-3069F0?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
